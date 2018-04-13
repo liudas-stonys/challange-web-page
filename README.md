@@ -1,2 +1,2 @@
-## My first freelance web project
+## My first freelance web page
 ### Countdown clock to an event date with email registration for participants
